@@ -1,0 +1,233 @@
+# depslib dependency file v1.0
+1653421948 source:d:\code\everwing\main.cpp
+	<windows.h>
+	<SDL.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	"BaseObject.h"
+	"MainObject.h"
+	"CommonFunction.h"
+	"Sound.h"
+	"Boss.h"
+	"bullet.h"
+	"Fairy.h"
+	"item.h"
+	"text.h"
+
+1651324803 source:d:\code\everwing\image.cpp
+	"image.h"
+
+1651325164 d:\code\everwing\image.h
+	<windows.h>
+	<SDL.h>
+	<SDL_image.h>
+	<bits/stdc++.h>
+
+1651322148 source:d:\code\everwing\monster.cpp
+	<SDL.h>
+	"monster.h"
+
+1651322143 d:\code\everwing\monster.h
+	<SDL.h>
+	<bits/stdc++.h>
+
+1653420610 d:\code\everwing\commonfunction.h
+	<windows.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"Sound.h"
+	<bits/stdc++.h>
+	"bullet.h"
+	"text.h"
+
+1653414488 source:d:\code\everwing\commonfunction.cpp
+	"CommonFunction.h"
+
+1653408333 source:d:\code\everwing\baseobject.cpp
+	"BaseObject.h"
+	"CommonFunction.h"
+
+1653209646 d:\code\everwing\baseobject.h
+	<windows.h>
+	<SDL.h>
+	<SDL_image.h>
+	<bits/stdc++.h>
+
+1653408333 source:d:\code\everwing\mainobject.cpp
+	"MainObject.h"
+
+1653207540 d:\code\everwing\mainobject.h
+	"CommonFunction.h"
+	"BaseObject.h"
+	"bullet.h"
+
+1653320683 source:d:\code\everwing\bullet.cpp
+	"bullet.h"
+
+1652894021 source:d:\code\everwing\sound.cpp
+	"Sound.h"
+
+1652894021 d:\code\everwing\sound.h
+	<SDL_mixer.h>
+	<bits/stdc++.h>
+
+1652875459 source:d:\code\everwing\boss_02.cpp
+	"Boss_02.h"
+
+1652875206 d:\code\everwing\boss_02.h
+	<SDL.h>
+	"CommonFunction.h"
+	"BaseObject.h"
+
+1653422237 d:\code\everwing\boss.h
+	"Sound.h"
+	"CommonFunction.h"
+	"BaseObject.h"
+	"MainObject.h"
+	"Fairy.h"
+	"item.h"
+
+1653422150 source:d:\code\everwing\boss.cpp
+	"Boss.h"
+
+1653190402 d:\code\everwing\bullet.h
+	"BaseObject.h"
+	"CommonFunction.h"
+	"Sound.h"
+
+1653416471 source:d:\code\everwing\fairy.cpp
+	"Fairy.h"
+
+1653417753 d:\code\everwing\fairy.h
+	"MainObject.h"
+	"bullet.h"
+
+1653419121 source:d:\code\everwing\item.cpp
+	"item.h"
+
+1653417616 d:\code\everwing\item.h
+	"BaseObject.h"
+	"MainObject.h"
+	"Sound.h"
+	"text.h"
+
+1653413769 d:\code\everwing\text.h
+	<bits/stdc++.h>
+	<SDL_ttf.h>
+
+1653413769 source:d:\code\everwing\text.cpp
+	"text.h"
+	"CommonFunction.h"
+
+1653424557 source:d:\everwing\baseobject.cpp
+	"BaseObject.h"
+	"CommonFunction.h"
+
+1653209646 d:\everwing\baseobject.h
+	<windows.h>
+	<SDL.h>
+	<SDL_image.h>
+	<bits/stdc++.h>
+
+1653422683 d:\everwing\commonfunction.h
+	<windows.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"Sound.h"
+	<bits/stdc++.h>
+	"bullet.h"
+	"text.h"
+
+1652894021 d:\everwing\sound.h
+	<SDL_mixer.h>
+	<bits/stdc++.h>
+
+1653190402 d:\everwing\bullet.h
+	"BaseObject.h"
+	"CommonFunction.h"
+	"Sound.h"
+
+1653413769 d:\everwing\text.h
+	<bits/stdc++.h>
+	<SDL_ttf.h>
+
+1653423798 source:d:\everwing\boss.cpp
+	"Boss.h"
+
+1653424473 d:\everwing\boss.h
+	"Sound.h"
+	"CommonFunction.h"
+	"BaseObject.h"
+	"MainObject.h"
+	"Fairy.h"
+	"item.h"
+
+1653207540 d:\everwing\mainobject.h
+	"CommonFunction.h"
+	"BaseObject.h"
+	"bullet.h"
+
+1653417753 d:\everwing\fairy.h
+	"MainObject.h"
+	"bullet.h"
+
+1653417616 d:\everwing\item.h
+	"BaseObject.h"
+	"MainObject.h"
+	"Sound.h"
+	"text.h"
+
+1653320683 source:d:\everwing\bullet.cpp
+	"bullet.h"
+
+1653424099 source:d:\everwing\commonfunction.cpp
+	"CommonFunction.h"
+
+1653422948 source:d:\everwing\fairy.cpp
+	"Fairy.h"
+
+1653423554 source:d:\everwing\item.cpp
+	"item.h"
+
+1653421948 source:d:\everwing\main.cpp
+	<windows.h>
+	<SDL.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	"BaseObject.h"
+	"MainObject.h"
+	"CommonFunction.h"
+	"Sound.h"
+	"Boss.h"
+	"bullet.h"
+	"Fairy.h"
+	"item.h"
+	"text.h"
+
+1653424340 source:d:\everwing\mainobject.cpp
+	"MainObject.h"
+
+1652894021 source:d:\everwing\sound.cpp
+	"Sound.h"
+
+1653413769 source:d:\everwing\text.cpp
+	"text.h"
+	"CommonFunction.h"
+
+1653424340 source:d:\everwing\everwing.cpp
+	<windows.h>
+	<SDL.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	"BaseObject.h"
+	"MainObject.h"
+	"CommonFunction.h"
+	"Sound.h"
+	"Boss.h"
+	"bullet.h"
+	"Fairy.h"
+	"item.h"
+	"text.h"
+
