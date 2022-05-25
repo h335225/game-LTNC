@@ -32,13 +32,13 @@ Mô tả:
 # 4. Các kỹ thuật lập trình được sử dụng trong chương trình:
 Các kỹ thuật lập trình:
   
-- Sử dụng các kiến thức cơ bản đã được dạy như mảng, xâu (string), hàm rand()...;
-- Sử dụng biến const, con trỏ và tham chiếu;
-- Sử dụng class, static,...
+- Sử dụng các kiến thức cơ bản đã được dạy như mảng, xâu (string), hàm rand()...
+- Sử dụng biến const, con trỏ và tham chiếu.
+- Sử dụng class, struct,...
   
   
 Với thư viện SDL2, SD2_image, SDL2_mixer, SDL2_ttf
-- Xử lí sự kiện chuột, bàn phím;
+- Xử lí sự kiện chuột, bàn phím.
 - Sử dụng hàm trong các thư viện để tạo hình ảnh, âm thanh, chữ cho game.
 
 # 5. Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình:
