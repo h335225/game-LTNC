@@ -42,7 +42,7 @@ Với thư viện SDL2, SD2_image, SDL2_mixer, SDL2_ttf
 - Sử dụng hàm trong các thư viện để tạo hình ảnh, âm thanh, chữ cho game.
 
 # 5. Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình:
-Kết luận và điều tâm đắc
+# Kết luận và điều tâm đắc
 - Chú trọng cách đặt tên biến và hàm để hiểu và khi cần có thể tìm dễ dàng.
 - Chia file để dễ quản lý hơn.
 - Sử dụng nhiều ngôn ngữ hay thư viện để code dễ dàng hơn.
